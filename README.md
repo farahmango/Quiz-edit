@@ -1,2 +1,2 @@
 # Quiz-edit
-https://github.com/farahmango/Quiz-edit.git
+https://github.com/farahmango/Quiz-edit
